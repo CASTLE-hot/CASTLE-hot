@@ -1,6 +1,6 @@
 ### Hi there
 Might as well make this <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CASTLE-hot&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CASTLE-hot&theme=cobalt)
 <br><br>
 me when I the
 <!--
